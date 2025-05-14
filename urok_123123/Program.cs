@@ -48,6 +48,7 @@ namespace urok_123123
                         break;
                     default: Console.WriteLine("no com");
                         break;
+                        
 
                 }
             } while (taskCounter != MAX_TASKS);
